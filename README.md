@@ -28,7 +28,7 @@ VUE_APP_URL=http://18.139.50.74:8080
 
 - [Axios](https://www.npmjs.com/package/axios)
 - [Bootstrap Vue](https://bootstrap-vue.org)
-- [Vue.Js] (https://vuejs.org)
+- [Vue.Js](https://vuejs.org)
 - [Vuex](https://vuex.vuejs.org)
 
 
